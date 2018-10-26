@@ -1,0 +1,3 @@
+def ChattyStudent < Student
+
+end 
