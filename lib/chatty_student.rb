@@ -12,4 +12,4 @@ class ChattyStudent < Student
   end #end of Raise Hand 
   
   
-end 
+end #end of Chatty Student class 
