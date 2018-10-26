@@ -6,6 +6,7 @@ def ChattyStudent < Student
   end #end of Hello 
   
   def raise_hand
+    
     10.times do 
       super 
     end 
